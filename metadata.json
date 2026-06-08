@@ -1,0 +1,6 @@
+{
+  "name": "OptimaBiz",
+  "description": "Real-Action Tool untuk UMKM. Kelola produk, analisis margin, dan dapatkan strategi AI untuk scale up profit bisnis kamu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
